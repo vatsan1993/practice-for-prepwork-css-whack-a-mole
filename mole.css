@@ -12,6 +12,7 @@
   width: 376px;
   height: 356px;
   left: 109px;
+  transition: margin-top 0.25s;
 }
 
 .wgs__mole-head--hidden{
