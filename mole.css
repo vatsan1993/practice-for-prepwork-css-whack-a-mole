@@ -18,7 +18,8 @@
   width: 188px;
   height: 178px;
   left: 54.5px;
-  transition: margin-top 0.25s;
+
+  transition: margin-top 0.25s, border 1s;
 }
 
 .wgs__mole-head--hidden{
@@ -32,7 +33,9 @@
   bottom:0;
 }
 .wgs__mole-head--whacked{
-
+  border: 5px solid rgb(160, 118, 201);
+  padding: 50px;
+  border-radius: 50%;
 }
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 .sb {
