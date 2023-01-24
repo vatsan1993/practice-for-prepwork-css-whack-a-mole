@@ -1,7 +1,22 @@
 /* Your code here */
+.wgs{
+  position: relative;
+  width: 640px;
+  height: 482px;
+}
 
+.wgs__mole-head{
+  position: absolute;
+  width: 376px;
+  height: 356px;
 
+}
 
+.wgs__dirt-pile{
+  position: absolute;
+  width: 640px;
+  height: 220px;
+}
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 /* .sb {
   background-color: cornflowerblue;
